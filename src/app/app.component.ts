@@ -10,33 +10,33 @@ export class AppComponent {
   quotes: Quote[] = [
     new Quote(
       Quote.generateId(),
-      "James Cameron",
-      "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. ",
-      "Teddy Omondi",
+      "John Keats",
+      "I was never afraid of failure; for I would sooner fail than not be among the greatest.",
+      "James Bond",
       0,
       0,
-      new Date('2022,01,09')
+      new Date('2022,02,08')
 
 
     ),
     new Quote(
       Quote.generateId(),
-      "Robert Louis Stevenson",
-      "Don't judge each day by the harvest you reap but by the seeds that you plant ",
-      "TrekHub",
+      "Harper Lee",
+      "You never really understand a person until you consider things from his point of view. Until you climb inside of his skin and walk around in it.",
+      "Dan curson",
       0,
       0,
-      new Date('2022,01,09')
+      new Date('2022,02,08')
 
     ),
     new Quote(
       Quote.generateId(),
-      "Hellen KEller",
-      "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.",
-      "Maya",
+      "Ernest Hemingway",
+      "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+      "Shaddy",
       0,
       0,
-      new Date('2022,01,09')
+      new Date('2022,02,08')
 
     ),
   
