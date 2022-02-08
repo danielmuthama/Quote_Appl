@@ -8,14 +8,14 @@
 
 <div style="text-align: center; ">
         <div>
-            <h1>I am<span style="color: green; ">Daniel Muthama</span> <span style='font-size:50px;'> &#128075</span></h1>
+            <h1>I am <span style="color: green; ">Daniel Muthama</span> <span style='font-size:50px;'> &#128075</span></h1>
             <h3>A Software Developer &#128187; &#127911;</h3>
         </div>
         
 </div>
 <br>
 
-# Angular Quote App <span style='font-size:30px;'> <img height="20" class="mx-1" id="logo-img" src="./images/icons/shop-solid.svg" alt=""></span> 
+### Angular Quote App <span style='font-size:30px;'> <img height="20" class="mx-1" id="logo-img" src="./images/icons/shop-solid.svg" alt=""></span> 
 This is a quote app where users can create an post quotes from their favourite authors. And the same user can upvote or downvote a quote.
 
 <br>
@@ -29,16 +29,16 @@ This is a quote app where users can create an post quotes from their favourite a
 <br>
 
 
-# Demo &#128273;
+### Demo &#128273;
 
 Here is a live link to the project 
 
 
-https://trekhub.github.io/kibanda/
+https://danielmuthama.github.io/Quote_Appl/
 
 ![alt text](src/assets/screen1.png)
 
-# Usage <span style='font-size:30px;'>🖋</span> 
+### Usage <span style='font-size:30px;'>🖋</span> 
 If you want to view the code or change some elements on the website, you are welcomed to clone the project
 
 ``` git
@@ -59,7 +59,7 @@ ng serve
 ```
 
 
-# Technology Used <span style='font-size:30px;'>&#128187;</span> 
+### Technology Used <span style='font-size:30px;'>&#128187;</span> 
 
 1. Angular
 
@@ -69,9 +69,9 @@ ng serve
 
 
 
-# Author <span style='font-size:30px;'>&#128524;</span> 
+### Author <span style='font-size:30px;'>&#128524;</span> 
 
 Daniel Muthama
 
-# License  <span style='font-size:30px;'>🔐</span> 
+### License  <span style='font-size:30px;'>🔐</span> 
 [MIT](https://choosealicense.com/licenses/mit/)
