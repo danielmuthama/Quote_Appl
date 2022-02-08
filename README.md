@@ -8,15 +8,15 @@
 
 <div style="text-align: center; ">
         <div>
-            <h1>Hi There, I'm <span style="color: green; ">Teddy Omondi</span> <span style='font-size:50px;'> &#128075</span></h1>
-            <h3>Upcoming Junior Software Developer &#128187; &#127911;</h3>
+            <h1>I am<span style="color: green; ">Daniel Muthama</span> <span style='font-size:50px;'> &#128075</span></h1>
+            <h3>A Software Developer &#128187; &#127911;</h3>
         </div>
         
 </div>
 <br>
 
 # Angular Quote App <span style='font-size:30px;'> <img height="20" class="mx-1" id="logo-img" src="./images/icons/shop-solid.svg" alt=""></span> 
-This is a quote app where users can create an post quotes from their favourite authors. The user can upvote or downvote a quote.
+This is a quote app where users can create an post quotes from their favourite authors. And the same user can upvote or downvote a quote.
 
 <br>
 
@@ -71,7 +71,7 @@ ng serve
 
 # Author <span style='font-size:30px;'>&#128524;</span> 
 
-Teddy Omondi 
+Daniel Muthama
 
 # License  <span style='font-size:30px;'>🔐</span> 
 [MIT](https://choosealicense.com/licenses/mit/)
