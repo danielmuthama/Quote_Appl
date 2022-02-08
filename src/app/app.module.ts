@@ -1,43 +1,18 @@
-import { BrowserModule } from "@angular/platform-browser";
-import { NgModule } from "@angular/core";
-import { HttpClientModule } from "@angular/common/http";
-import { FormsModule } from "@angular/forms";
-import { AppRoutingModule } from "./app-routing.module";
-import { AppComponent } from "./app.component";
-import { QuotesComponent } from "./quotes/quotes.component";
-import { SearchComponent } from "./search/search.component";
-import { BackgroundComponent } from "./background/background.component";
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
 
-import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
-
-import { FlexLayoutModule } from "@angular/flex-layout";
-import { MatCardModule } from "@angular/material/card";
-import { MatInputModule } from "@angular/material/input";
-import { MatButtonModule } from "@angular/material/button";
-import { MatIconModule } from "@angular/material/icon";
-
-import { QuotesService } from "./services/quotes.service";
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    QuotesComponent,
-    SearchComponent,
-    BackgroundComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    FormsModule,
-    HttpClientModule,
-    BrowserAnimationsModule,
-    FlexLayoutModule,
-    MatCardModule,
-    MatInputModule,
-    MatButtonModule,
-    MatIconModule
+    AppRoutingModule
   ],
-  providers: [QuotesService],
+  providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule {}
+export class AppModule { }
