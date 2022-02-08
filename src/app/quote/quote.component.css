@@ -1,3 +1,7 @@
 .elapsed {
     font-size: 9px;
 }
+
+.border {
+    box-shadow: 0px 4px 5px green;
+}
