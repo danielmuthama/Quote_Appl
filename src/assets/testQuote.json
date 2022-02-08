@@ -1,0 +1,442 @@
+{
+    "page": 1,
+    "last_page": false,
+    "quotes": [
+        {
+            "id": 466,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/mark-twain/466-i-ve-dealt-with-",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Mark Twain",
+            "author_permalink": "mark-twain",
+            "body": "I've dealt with many crises in my life, but few will ever happen."
+        },
+        {
+            "id": 330,
+            "dialogue": false,
+            "source": "http://en.wikipedia.org/wiki/Yogi_Berra#Quotations",
+            "context": "On why he no longer goes to Ruggeri's, a St. Louis restaurant.",
+            "private": false,
+            "tags": [
+                "funny",
+                "yogiism"
+            ],
+            "url": "https://favqs.com/quotes/yogi-berra/330-it-s-so-crowded-",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Yogi Berra",
+            "author_permalink": "yogi-berra",
+            "body": "It's so crowded, nobody goes there."
+        },
+        {
+            "id": 498,
+            "dialogue": false,
+            "source": "http://en.wikipedia.org/wiki/Yogi_Berra#Quotations",
+            "context": "As a general comment about baseball.",
+            "private": false,
+            "tags": [
+                "funny",
+                "yogiism"
+            ],
+            "url": "https://favqs.com/quotes/yogi-berra/498-90-of-the-game--",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Yogi Berra",
+            "author_permalink": "yogi-berra",
+            "body": "90% of the game is half mental."
+        },
+        {
+            "id": 388,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/anonymous/388-if-at-first-you-",
+            "favorites_count": 2,
+            "upvotes_count": 0,
+            "downvotes_count": 0,
+            "author": "Anonymous",
+            "author_permalink": "anonymous",
+            "body": "If at first you don't succeed, destroy all evidence that you tried."
+        },
+        {
+            "id": 406,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "weather",
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/mark-twain/406-everybody-talks-",
+            "favorites_count": 2,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Mark Twain",
+            "author_permalink": "mark-twain",
+            "body": "Everybody talks about the weather, but nobody does anything about it."
+        },
+        {
+            "id": 371,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/mark-twain/371-get-the-facts-f-",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Mark Twain",
+            "author_permalink": "mark-twain",
+            "body": "Get the facts first. You can distort them later."
+        },
+        {
+            "id": 529,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/ernest-hemingway/529-critics-are-men-",
+            "favorites_count": 2,
+            "upvotes_count": 2,
+            "downvotes_count": 0,
+            "author": "Ernest Hemingway",
+            "author_permalink": "ernest-hemingway",
+            "body": "Critics are men who sit and watch a battle from a high place and come down to shoot the survivors."
+        },
+        {
+            "id": 567,
+            "dialogue": true,
+            "source": "https://www.youtube.com/watch?v=S65lJGs7YC8&t=9s",
+            "context": "While visiting Elwood's tiny apartment in Chicago, which abuts a busy train line.",
+            "private": false,
+            "tags": [
+                "movie",
+                "funny",
+                "blues-brothers"
+            ],
+            "url": "https://favqs.com/quotes/jake/567-how-often-does--",
+            "favorites_count": 2,
+            "upvotes_count": 1,
+            "downvotes_count": 1,
+            "lines": [
+                {
+                    "position": 1,
+                    "body": "How often does the train go by?",
+                    "author": "Jake",
+                    "author_permalink": "jake"
+                },
+                {
+                    "position": 2,
+                    "body": "So often you won't even notice it.",
+                    "author": "Elwood",
+                    "author_permalink": "elwood"
+                }
+            ]
+        },
+        {
+            "id": 298,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "drinking",
+                "alcohol"
+            ],
+            "url": "https://favqs.com/quotes/george-burns/298-it-only-takes-o-",
+            "favorites_count": 1,
+            "upvotes_count": 0,
+            "downvotes_count": 0,
+            "author": "George Burns",
+            "author_permalink": "george-burns",
+            "body": "It only takes one drink to get me drunk. I can just never remember if it's the eighth or ninth."
+        },
+        {
+            "id": 389,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/oscar-wilde/389-some-cause-happ-",
+            "favorites_count": 2,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Oscar Wilde",
+            "author_permalink": "oscar-wilde",
+            "body": "Some cause happiness wherever they go; others whenever they go."
+        },
+        {
+            "id": 21,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "reading",
+                "books",
+                "comedian"
+            ],
+            "url": "https://favqs.com/quotes/groucho-marx/21-from-the-moment--",
+            "favorites_count": 2,
+            "upvotes_count": 0,
+            "downvotes_count": 0,
+            "author": "Groucho Marx",
+            "author_permalink": "groucho-marx",
+            "body": "From the moment I picked your book up until I laid it down I was convulsed with laughter. Someday I intend reading it."
+        },
+        {
+            "id": 261,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "feminism"
+            ],
+            "url": "https://favqs.com/quotes/timothy-leary/261-women-who-seek--",
+            "favorites_count": 1,
+            "upvotes_count": 0,
+            "downvotes_count": 0,
+            "author": "Timothy Leary",
+            "author_permalink": "timothy-leary",
+            "body": "Women who seek to be equal with men lack ambition."
+        },
+        {
+            "id": 353,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "productivity",
+                "leisure"
+            ],
+            "url": "https://favqs.com/quotes/e-b-white/353-i-arise-in-the--",
+            "favorites_count": 2,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "E. B. White",
+            "author_permalink": "e-b-white",
+            "body": "I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day."
+        },
+        {
+            "id": 248,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "school",
+                "college",
+                "education"
+            ],
+            "url": "https://favqs.com/quotes/mark-twain/248-never-let-your--",
+            "favorites_count": 3,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Mark Twain",
+            "author_permalink": "mark-twain",
+            "body": "Never let your schooling interfere with your education."
+        },
+        {
+            "id": 20,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "quotes",
+                "comedian"
+            ],
+            "url": "https://favqs.com/quotes/groucho-marx/20-before-i-speak-i-",
+            "favorites_count": 2,
+            "upvotes_count": 0,
+            "downvotes_count": 0,
+            "author": "Groucho Marx",
+            "author_permalink": "groucho-marx",
+            "body": "Before I speak, I have something important to say."
+        },
+        {
+            "id": 322,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "habits"
+            ],
+            "url": "https://favqs.com/quotes/mark-twain/322-quitting-smokin-",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Mark Twain",
+            "author_permalink": "mark-twain",
+            "body": "Quitting smoking is easy. I've done it a thousand times."
+        },
+        {
+            "id": 321,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "finance"
+            ],
+            "url": "https://favqs.com/quotes/bob-hope/321-a-bank-is-a-pla-",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Bob Hope",
+            "author_permalink": "bob-hope",
+            "body": "A bank is a place that will lend you money if you can prove that you don't need it."
+        },
+        {
+            "id": 402,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "math",
+                "author"
+            ],
+            "url": "https://favqs.com/quotes/mark-twain/402-there-are-three-",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Mark Twain",
+            "author_permalink": "mark-twain",
+            "body": "There are three kinds of lies: lies, d--n lies, and statistics."
+        },
+        {
+            "id": 315,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/henry-ford/315-any-customer-ca-",
+            "favorites_count": 2,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Henry Ford",
+            "author_permalink": "henry-ford",
+            "body": "Any customer can have a car painted any color that he wants so long as it is black."
+        },
+        {
+            "id": 573,
+            "dialogue": true,
+            "source": "https://www.youtube.com/watch?v=IIdGxR-aU6o&t=1m20s",
+            "context": "When they're driving through the inside of a shopping mall while being chased by police.",
+            "private": false,
+            "tags": [
+                "blues-brothers",
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/jake/573-baby-clothes",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "lines": [
+                {
+                    "position": 1,
+                    "body": "Baby clothes.",
+                    "author": "Elwood",
+                    "author_permalink": "elwood"
+                },
+                {
+                    "position": 2,
+                    "body": "This place has got everything.",
+                    "author": "Jake",
+                    "author_permalink": "jake"
+                }
+            ]
+        },
+        {
+            "id": 541,
+            "dialogue": false,
+            "source": "https://static.pinboard.in/xoxo_talk_thoreau.htm",
+            "private": false,
+            "tags": [
+                "quotes",
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/maciej-ceglowski/541-when-people-are-",
+            "favorites_count": 1,
+            "upvotes_count": 0,
+            "downvotes_count": 0,
+            "author": "Maciej Cegłowski",
+            "author_permalink": "maciej-ceglowski",
+            "body": "When people are very quotable, it can make it harder to listen to what they actually have to say."
+        },
+        {
+            "id": 533,
+            "dialogue": false,
+            "source": "http://comediansincarsgettingcoffee.com/chris-rock-kids-need-bullying",
+            "private": false,
+            "tags": [
+                "funny",
+                "comedian",
+                "friends"
+            ],
+            "url": "https://favqs.com/quotes/chris-rock/533-everything-s-ab-",
+            "favorites_count": 2,
+            "upvotes_count": 0,
+            "downvotes_count": 0,
+            "author": "Chris Rock",
+            "author_permalink": "chris-rock",
+            "body": "Everything's about company.  A gourmet meal with an a-----e is a horrible meal."
+        },
+        {
+            "id": 496,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "kids"
+            ],
+            "url": "https://favqs.com/quotes/franklin-p-adams/496-you-can-learn-m-",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 0,
+            "author": "Franklin P. Adams",
+            "author_permalink": "franklin-p-adams",
+            "body": "You can learn many things from children.  How much patience you have, for instance"
+        },
+        {
+            "id": 286,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny",
+                "author",
+                "compliments"
+            ],
+            "url": "https://favqs.com/quotes/mark-twain/286-i-have-been-com-",
+            "favorites_count": 1,
+            "upvotes_count": 1,
+            "downvotes_count": 1,
+            "author": "Mark Twain",
+            "author_permalink": "mark-twain",
+            "body": "I have been complimented many times and they always embarrass me; I always feel that they have not said enough."
+        },
+        {
+            "id": 356,
+            "dialogue": false,
+            "private": false,
+            "tags": [
+                "funny"
+            ],
+            "url": "https://favqs.com/quotes/anonymous/356-there-are-2-thi-",
+            "favorites_count": 1,
+            "upvotes_count": 0,
+            "downvotes_count": 0,
+            "author": "Anonymous",
+            "author_permalink": "anonymous",
+            "body": "There are 2 things that will bring you success in life: 1) Don't tell everyone everything you know."
+        }
+    ]
+}
