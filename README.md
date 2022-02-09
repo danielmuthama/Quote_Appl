@@ -23,9 +23,6 @@ This is a quote app where users can create an post quotes from their favourite a
 
 
 
-
-
-
 <br>
 
 
@@ -73,5 +70,5 @@ ng serve
 
 Daniel Muthama
 
-### License  <span style='font-size:30px;'>🔐</span> 
+#### License  <span style='font-size:30px;'>🔐</span> 
 [MIT](https://choosealicense.com/licenses/mit/)
