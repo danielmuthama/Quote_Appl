@@ -20,13 +20,16 @@ This is a quote app where users can create an post quotes from their favourite a
 
 <br>
 
-ngh --dir=dist/[Quote_Appl]
-ng build --prod --base-href https://[danielmuthama].github.io/[Quote_Appl]/
+
+
+
+
+
 
 <br>
 
 
-### Demo link;
+### Demo &#128273;
 
 Here is a live link to the project 
 
@@ -39,7 +42,7 @@ https://danielmuthama.github.io/Quote_Appl/
 If you want to view the code or change some elements on the website, you are welcomed to clone the project
 
 ``` git
-git clone git@github.com:TrekHub/angular-Quote-App.git
+git clone git@github.com:danielmuthama/angular-Quote-Appl.git
 
 ```
 
