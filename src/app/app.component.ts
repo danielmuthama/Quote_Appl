@@ -7,6 +7,9 @@ import { Quote } from './quote.model';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  title(title: any) {
+    throw new Error('Method not implemented.');
+  }
   quotes: Quote[] = [
     new Quote(
       Quote.generateId(),
