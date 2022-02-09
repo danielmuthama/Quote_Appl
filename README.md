@@ -42,7 +42,7 @@ https://danielmuthama.github.io/Quote_Appl/
 If you want to view the code or change some elements on the website, you are welcomed to clone the project
 
 ``` git
-git clone git@github.com:TrekHub/angular-Quote-App.git
+git clone git@github.com:danielmuthama/angular-Quote-Appl.git
 
 ```
 
