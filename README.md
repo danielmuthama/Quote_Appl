@@ -21,7 +21,7 @@ This is a quote app where users can create an post quotes from their favourite a
 <br>
 
 ngh --dir=dist/[Quote_Appl]
-
+ng build --prod --base-href https://[danielmuthama].github.io/[Quote_Appl]/
 
 <br>
 
