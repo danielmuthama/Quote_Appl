@@ -32,9 +32,8 @@ export class FormComponent implements OnInit {
 
       this.newQuoteEvent.emit(newQuote)
     }else {
-      alert("Please Provide all The Required Information")
+      alert("Please Put all The Required Information")
     }
-
 
 
 
